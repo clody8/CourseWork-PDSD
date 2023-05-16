@@ -148,12 +148,12 @@
     <ClCompile Include="Vector.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="ClassList.h" />
-    <ClInclude Include="List.h" />
-    <ClInclude Include="Node.h" />
-    <ClInclude Include="queue.h" />
-    <ClInclude Include="Set.h" />
-    <ClInclude Include="Vector.h" />
+    <ClInclude Include="HeaderClassList.h" />
+    <ClInclude Include="HeaderList.h" />
+    <ClInclude Include="HeaderNode.h" />
+    <ClInclude Include="Headerqueue.h" />
+    <ClInclude Include="HeaderSet.h" />
+    <ClInclude Include="HeaderVector.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
