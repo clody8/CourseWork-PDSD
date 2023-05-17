@@ -18,6 +18,7 @@ void line()
 
 int main()
 {
+    system("color 5F");
     setlocale(LC_ALL, "ru");
 
     cout << "Введите мощность (больше или равной 1000): ";

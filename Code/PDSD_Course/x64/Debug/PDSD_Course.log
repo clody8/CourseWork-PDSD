@@ -1,6 +1,2 @@
 ﻿  PDSD_Course.cpp
-  queue.cpp
-D:\University\динам. структуры\Курсовая работа\Code\PDSD_Course\queue.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
-D:\University\динам. структуры\Курсовая работа\Code\PDSD_Course\queue.cpp(41,22): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
-  Создание кода...
   PDSD_Course.vcxproj -> D:\University\динам. структуры\Курсовая работа\Code\PDSD_Course\x64\Debug\PDSD_Course.exe
